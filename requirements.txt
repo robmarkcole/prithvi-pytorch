@@ -7,3 +7,4 @@ segmentation-models-pytorch>=0.3.3
 kornia>=0.7.0
 torchmetrics>=1.2.1
 torchgeo @ git+https://github.com/microsoft/torchgeo@main
+wandb
